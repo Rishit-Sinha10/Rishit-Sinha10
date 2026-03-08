@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Rishit and I'm a Full Stack & AI Developer</h2>
-###
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramesh1234-ai&show_icons=true&theme=dracula"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh1234-ai&layout=compact&theme=dracula"/>
@@ -32,5 +31,3 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" mailto="Sinharishit04@gmail.com"/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rishit-sinha-6953ab363/"/>
 </div>
-
-###
