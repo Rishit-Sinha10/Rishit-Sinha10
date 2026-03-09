@@ -54,22 +54,6 @@ Passionate about building scalable web applications, AI tools, and developer pla
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 
 </div>
----
-<h2>🚀 Featured Projects</h2>
-⭐ **Sintra – Video Sharing Platform**  
-Full-stack video platform with authentication, search, upload system and chatbot.
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats-bqzgkcr4b-diamonds.vercel.app/api?username=ramesh1234-ai&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh1234-ai&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 <h2>🔥 GitHub Streak</h2>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ramesh1234-ai&theme=tokyonight"/>
@@ -79,7 +63,7 @@ Full-stack video platform with authentication, search, upload system and chatbot
 <a href="https://www.youtube.com/@gwlucifer5818">
 <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"/>
 </a>
-<a href="https://www.instagram.com/rishit_1409">
+<a href="https://www.instagram.com/rishit_149">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="mailto:Sinharishit04@gmail.com">
@@ -89,7 +73,4 @@ Full-stack video platform with authentication, search, upload system and chatbot
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 ---
-<img src="https://raw.githubusercontent.com/ramesh1234-ai/ramesh1234-ai/output/snake.svg"/>
----
-
 <img src="https://raw.githubusercontent.com/ramesh1234-ai/ramesh1234-ai/output/snake.svg" alt="Snake animation"/>
