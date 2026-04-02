@@ -1,58 +1,36 @@
 <h1 align="center">Hi 👋 I'm Rishit</h1>
 <h3 align="center">🚀 Full Stack & AI Developer from India</h3>
-
 <p align="center">
 Passionate about building scalable web applications, AI tools, and developer platforms.
 </p>
-
 ---
-
 <h2>👨‍💻 About Me</h2>
-
 - 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
 - 💻 Full Stack Developer (MERN + Flask)
 - 🤖 Interested in AI Agents & Automation
 - 🌱 Currently learning **Next.js, AI Agents, and System Design**
 - 🚀 Building real-world projects for startups and open source
-
 ---
-
 <h2>🚀 Tech Stack</h2>
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-<img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-
 </div>
 <h2>🔥 GitHub Streak</h2>
 <p align="center">
