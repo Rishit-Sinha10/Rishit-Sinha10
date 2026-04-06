@@ -5,11 +5,11 @@ Passionate about building scalable web applications, AI tools, and developer pla
 </p>
 ---
 <h2>👨‍💻 About Me</h2>
-- 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
-- 💻 Full Stack Developer (MERN + Flask)
-- 🤖 Interested in AI Agents & Automation
-- 🌱 Currently learning **Next.js, AI Agents, and System Design**
-- 🚀 Building real-world projects for startups and open source
+ 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
+ 💻 Full Stack Developer (MERN + Flask)
+ 🤖 Interested in AI Agents & Automation
+ 🌱 Currently learning **Next.js, AI Agents, and System Design**
+ 🚀 Building real-world projects for startups and open source
 ---
 <h2>🚀 Tech Stack</h2>
 
