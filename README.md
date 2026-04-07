@@ -3,16 +3,13 @@
 <p align="center">
 Passionate about building scalable web applications, AI tools, and developer platforms.
 </p>
----
 <h2>👨‍💻 About Me</h2>
  🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
  💻 Full Stack Developer (MERN + Flask)
  🤖 Interested in AI Agents & Automation
  🌱 Currently learning Next.js, AI Agents, and System Design
  🚀 Building real-world projects for startups and open source
----
 <h2>🚀 Tech Stack</h2>
-
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 <img width="12"/>
@@ -31,6 +28,8 @@ Passionate about building scalable web applications, AI tools, and developer pla
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+<img width="12"/>
 </div>
 <h2>🔥 GitHub Streak</h2>
 <p align="center">
