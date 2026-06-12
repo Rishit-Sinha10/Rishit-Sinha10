@@ -37,8 +37,9 @@
 </p>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://rishit-dev-pi.vercel.app/"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google.png"/></a>
+<a href="https://rishit-dev-pi.vercel.app/"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png"/></a>
 <a href="https://www.linkedin.com/in/rishit-sinha-6953ab363/"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png"/></a>
-<a href="mailto:sinharishit04@gmail.com"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png"/></a>
+<a href="mailto:sinharishit04@gmail.com"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png"/></a>
+<a href="https://www.reddit.com/user/Complete-Square-3341/"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png"/></a>
 <a href="https://instagram.com/rishit_149"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/Instagram.png"/></a>
 </p>
