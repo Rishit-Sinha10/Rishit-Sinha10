@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rishit</h2>
+<h2>Hey there! I'm Rishit</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Rishit -->
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -30,6 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramesh1234-ai&&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh1234-ai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Lato&ext=heatmap)
 </p>
 🤝🏻 &nbsp;Connect with Me
 <p align="center">
