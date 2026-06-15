@@ -45,25 +45,35 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat\&logo=rstudio)
 
 ---
+
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ramesh1234-ai&show_icons=true&theme=radical"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh1234-ai&layout=compact&theme=algolia"/>
 </p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Lato&ext=heatmap"/>
 </p>
+
 ---
+
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="https://rishit-dev-pi.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
   <a href="https://www.linkedin.com/in/rishit-sinha-6953ab363/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
   <a href="mailto:sinharishit04@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
   <a href="https://www.reddit.com/user/Complete-Square-3341/"><img src="https://img.icons8.com/fluency/48/reddit.png"/></a>
 </p>
+
 ---
+
 ## 📄 Resume
+
 📌 [View My Resume](https://drive.google.com/file/d/1p1XKaccALnnAmB1U4ZN23swSsSWkCKrN/view)
+
 ---
 
 ⭐ *Always open to learning, building, and collaborating on impactful projects.*
