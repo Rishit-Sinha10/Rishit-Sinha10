@@ -41,7 +41,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat\&logo=markdown)
 ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat\&logo=visual-studio-code\&logoColor=007ACC)
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat\&logo=rstudio)
 
 ---
 
@@ -54,6 +53,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Lato&ext=heatmap"/>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Rouge%20Script&ext=contest)
 </p>
 
 ---
