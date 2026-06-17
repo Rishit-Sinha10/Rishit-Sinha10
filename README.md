@@ -26,16 +26,15 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=java\&logoColor=FFA518)
 
 ### Web & Backend
-
 ![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat\&logo=flask)
-
+![Express Js](https://img.shields.io/badge/-Express-05122A?style=flat\&logo=Express)
 ### Frontend
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3\&logoColor=1572B6)
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
