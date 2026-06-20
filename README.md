@@ -21,7 +21,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat\&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=java\&logoColor=FFA518)
 
@@ -35,20 +35,21 @@
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3\&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat\&logo=NextJs)
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat\&logo=markdown)
 ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat\&logo=visual-studio-code\&logoColor=007ACC)
-
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat\&logo=Render)
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ramesh1234-ai&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh1234-ai&layout=compact&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-Sinha10&layout=compact&theme=algolia"/>
 </p>
 
 <p align="center">
