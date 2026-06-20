@@ -1,22 +1,27 @@
 <div align="center">
 
+<!-- Anime banner GIF -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="180" alt="Anime coding banner"/>
+
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ██████╗ ██╗███████╗██╗  ██╗██╗████████╗           ║
-║        ██╔══██╗██║██╔════╝██║  ██║██║╚══██╔══╝           ║
-║        ██████╔╝██║███████╗███████║██║   ██║              ║
-║        ██╔══██╗██║╚════██║██╔══██║██║   ██║              ║
-║        ██║  ██║██║███████║██║  ██║██║   ██║              ║
-║        ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝              ║
-║                                                           ║
-║            — Més que un Dev. More than a Coder. —        ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗ ██╗███████╗██╗  ██╗██╗████████╗              ║
+║        ██╔══██╗██║██╔════╝██║  ██║██║╚══██╔══╝              ║
+║        ██████╔╝██║███████╗███████║██║   ██║                 ║
+║        ██╔══██╗██║╚════██║██╔══██║██║   ██║                 ║
+║        ██║  ██║██║███████║██║  ██║██║   ██║                 ║
+║        ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝                 ║
+║                                                              ║
+║    ⚡ Més que un Dev  •  More than a Coder  •  進化し続ける ⚡  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A50044&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%94%B5;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+Systems+%E2%9A%A1;Mes+que+un+Dev+%F0%9F%94%B4%F0%9F%94%B5" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A50044&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%9A%A1;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Barca+Fan+%2B+Anime+Arc+%F0%9F%94%B5%F0%9F%94%B4;Mes+que+un+Dev+%E2%80%94+%E3%81%84%E3%81%A4%E3%82%82%E5%89%8D%E9%80%B2" alt="Typing SVG" />
 
-![](https://img.shields.io/badge/FC%20Barcelona-Culer%20%26%20Coder-%23A50044?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6Ii8+PC9zdmc+)
+<br/>
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="160" align="right" alt="Anime coding gif"/>
 
 </div>
 
@@ -24,54 +29,60 @@
 
 <div align="center">
 
-## 🔵🔴 PLAYER PROFILE 🔴🔵
+## ⚔️ キャラクタープロフィール — PLAYER CARD ⚔️
 
 </div>
 
 ```yaml
-Name        : Rishit Sinha
-Position    : Full Stack Developer  
+Name        : Rishit Sinha                         # 名前
+Position    : Full Stack Developer  ⚽             # ポジション
 Playstyle   : MERN Stack · AI Integrations · Real-Time Systems
 Club        : Poornima University, Jaipur  [ 2023 → 2027 ]
-Kit Number  : B.Tech — Artificial Intelligence & Data Science
+Degree      : B.Tech — Artificial Intelligence & Data Science
 Status      : ⚡ ACTIVE — Open to internships & junior dev roles
-Formation   : Graphic Design · System Design · Cloud Architecture
-Motto       : Més que un Dev 🔵🔴
+Side Quest  : Graphic Design · System Design · Cloud Architecture
+Faction     : 🔵🔴 FC Barcelona · Culer since birth
+Power Level : ███████████░░  SSS-Class (still ascending)
+Motto       : "Visca el Barca. いつも前進。"
 ```
+
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="380" alt="Anime power up"/>
+</div>
 
 ---
 
 <div align="center">
 
-## 🔵 TIKI-TAKA SKILL TREE 🔴
+## 🔥 スキルツリー — TIKI-TAKA SKILL TREE 🔥
 
 </div>
 
-### ⚽ Languages — The Core Squad
+### ⚽ Languages — 一軍スカッド (First Team)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-004D98?style=flat&logo=javascript&logoColor=EDBB00)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-004D98?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-A50044?style=flat&logo=java&logoColor=EDBB00)
 ![Bun](https://img.shields.io/badge/-Bun-004D98?style=flat&logo=bun&logoColor=white)
 
-### 🛡️ Frontend — The Attack Line
+### 🛡️ Frontend — 攻撃陣 (The Attack Line)
 ![React](https://img.shields.io/badge/-React-004D98?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-A50044?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-004D98?style=flat&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-A50044?style=flat&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-A50044?style=flat&logo=shadcnui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-004D98?style=flat&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-A50044?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-Vanilla_CSS-004D98?style=flat&logo=css3&logoColor=EDBB00)
 
-### 🔮 Backend — The Engine Room
+### 🔮 Backend — エンジン (The Engine Room)
 ![Node.js](https://img.shields.io/badge/-Node.js-004D98?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-A50044?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-004D98?style=flat&logo=flask&logoColor=white)
 
-### 🗄️ Databases — The Foundation
+### 🗄️ Databases — 基盤 (The Foundation)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-004D98?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-A50044?style=flat&logo=mysql&logoColor=white)
 
-### 🧰 The Full Squad — Tools
+### 🧰 Arsenal — 道具箱 (Full Squad)
 ![Git](https://img.shields.io/badge/-Git-004D98?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-A50044?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-004D98?style=flat&logo=postman&logoColor=white)
@@ -84,50 +95,55 @@ Motto       : Més que un Dev 🔵🔴
 
 <div align="center">
 
-## 🏟️ MATCH HISTORY — EXPERIENCE 🏟️
+## 🏟️ アーク履歴 — MATCH HISTORY (EXPERIENCE) 🏟️
+
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="280" alt="Anime training arc gif"/>
 
 </div>
 
 ```
-▶  SEASON I  ·  TheTastyMillets                       [ May 2025 – Jul 2025 ]
+▶  SEASON I  ·  TheTastyMillets                        [ May 2025 – Jul 2025 ]
    Role     :  Frontend Developer Intern
    Highlight:  Optimized Core Web Vitals · +10% Lighthouse score
                Shipped responsive UI across all device breakpoints
+   Arc Type :  🌱 Training Arc — Learning the fundamentals
 
-▶  SEASON II ·  NextLearn Technologies                 [ Apr 2026 – May 2026 ]
+▶  SEASON II ·  NextLearn Technologies                  [ Apr 2026 – May 2026 ]
    Role     :  Full Stack Developer Intern
    Highlight:  Crushed page load from 4.2s → 1.1s  ( -65% ⚡ )
                Shipped 8 production features with design + backend teams
+   Arc Type :  🔥 Power Arc — Breaking limits in production
 ```
 
 ---
 
 <div align="center">
 
-## 🏆 LEGENDARY PROJECTS — THE TROPHY CABINET 🏆
+## 🏆 伝説のプロジェクト — LEGENDARY PROJECT CABINET 🏆
 
 </div>
 
 ### ⚡ StreamFlow — Real-Time Live Streaming Platform
-> *"If it buffers, it's not Barça football."*
+> *「バッファリングするなら、伝説じゃない。」— "If it buffers, it's not legendary."*
 
-[![Live](https://img.shields.io/badge/LIVE-Demo-A50044?style=flat)](https://github.com/rishit-Sinha10)
-[![GitHub](https://img.shields.io/badge/SOURCE-Code-004D98?style=flat&logo=github)](https://github.com/rishit-Sinha10)
+[![Live](https://img.shields.io/badge/LIVE-Demo-A50044?style=for-the-badge)](https://github.com/rishit-Sinha10)
+[![GitHub](https://img.shields.io/badge/SOURCE-Code-004D98?style=for-the-badge&logo=github)](https://github.com/rishit-Sinha10)
 
 ```
 Stack    : React · Node.js · Express · MongoDB · RTMP · Socket.io · HLS · Video.js
 Power    : 500+ concurrent viewers · 99.5% uptime · 1000 VU load tested (K6)
 Abilities: Real-time chat · Live RTMP ingest via OBS · HLS low-latency delivery
            Follow system · Stream notifications · p95 response: 84ms
+Rank     : 🏅 S-Class · Production-Grade · Battle-Tested
 ```
 
 ---
 
 ### 🤖 FinanCinno — AI-Powered Finance Manager
-> *"Your money. Your AI. Your control. Visca el codi!"*
+> *「あなたのお金。あなたのAI。あなたのコントロール。」— "Visca el codi!"*
 
-[![Live](https://img.shields.io/badge/LIVE-Demo-A50044?style=flat)](https://github.com/rishit-Sinha10)
-[![GitHub](https://img.shields.io/badge/SOURCE-Code-004D98?style=flat&logo=github)](https://github.com/rishit-Sinha10)
+[![Live](https://img.shields.io/badge/LIVE-Demo-A50044?style=for-the-badge)](https://github.com/rishit-Sinha10)
+[![GitHub](https://img.shields.io/badge/SOURCE-Code-004D98?style=for-the-badge&logo=github)](https://github.com/rishit-Sinha10)
 
 ```
 Stack    : React · MongoDB · Express · Node.js · OpenAI API
@@ -135,23 +151,26 @@ Power    : 1000 concurrent VUs · 84ms p95 · 0.01% failure rate (K6)
 Abilities: AI chatbot for personalised financial advice
            Secure auth · Expense logging & categorisation
            High Lighthouse SEO & performance scores
+Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 ```
 
 ---
 
 <div align="center">
 
-## 📊 POWER LEVELS — GITHUB STATS 📊
+## 📊 パワーレベル — GITHUB STATS 📊
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Anime stats gif"/>
 
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&icon_color=004D98"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-Sinha10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&icon_color=004D98&text_color=EDBB00"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-Sinha10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&text_color=EDBB00"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishit-Sinha10&theme=tokyonight&hide_border=true&background=0D1117&ring=A50044&fire=EDBB00&currStreakLabel=004D98" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishit-Sinha10&theme=tokyonight&hide_border=true&background=0D1117&ring=A50044&fire=EDBB00&currStreakLabel=004D98&sideLabels=EDBB00" />
 </div>
 
 <div align="center">
@@ -162,7 +181,7 @@ Abilities: AI chatbot for personalised financial advice
 
 <div align="center">
 
-## 🥇 TITLES & HONOURS 🥇
+## 🥇 称号と実績 — TITLES & ACHIEVEMENTS 🥇
 
 </div>
 
@@ -170,17 +189,22 @@ Abilities: AI chatbot for personalised financial advice
 🏅  Member — GitHub Developer Program
 🏅  MongoDB Certified Developer
 🏅  Google Cloud — Introduction to Generative AI
-⚽  300+ LeetCode Problems Solved  [ Arrays · Trees · Graphs · DP ]
+⚔️  300+ LeetCode Problems Solved  [ Arrays · Trees · Graphs · DP ]
 ⚡  Validated 1000 concurrent VUs at 84ms p95 via K6 load testing
 🚀  Reduced page load 65% (4.2s → 1.1s) in production internship
-📦  Deployed full-stack apps with React · Next.js · Node.js · MongoDB · TypeScript
+📦  Deployed full-stack apps: React · Next.js · Node.js · MongoDB · TypeScript
+🔵🔴 Barca Philosophy: Play Beautiful Code. Build Like Tiki-Taka.
 ```
 
 ---
 
 <div align="center">
 
-## 🔵🔴 FIND ME IN THE REAL WORLD 🔴🔵
+## 🌐 現実世界で見つけて — FIND ME IN THE REAL WORLD 🌐
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="GitHub anime gif"/>
+
+<br/><br/>
 
 <a href="https://rishit-dev-pi.vercel.app/">
   <img src="https://img.icons8.com/fluency/48/domain.png" title="Portfolio"/>
@@ -208,15 +232,20 @@ Abilities: AI chatbot for personalised financial advice
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="320" alt="Anime victory gif"/>
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "The best dev doesn't wait for the perfect sprint.       │
-│       He ships the feature and wins titles mid-season."    │
-│                                                             │
-│         🔵🔴  Visca el Barça. Visca Catalunya. 🔴🔵         │
-│              ⭐  Always building. Always leveling.  ⭐       │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   「主人公はパワーアップを待たない。                              │
+│     アーク半ばでフィーチャーをリリースしてレベルアップする。」     │
+│                                                              │
+│   "The protagonist doesn't wait for the power-up.           │
+│        He ships the feature and levels up mid-arc."         │
+│                                                              │
+│         🔵🔴  Visca el Barca. Visca Catalunya.  🔴🔵          │
+│          ⭐ いつも建設中。いつも進化中。Always leveling. ⭐      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rishit-Sinha10&color=A50044&style=flat&label=PROFILE+VIEWS)
