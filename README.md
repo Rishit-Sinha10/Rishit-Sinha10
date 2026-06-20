@@ -106,7 +106,4 @@ Open to internships & junior dev roles.
 │              ⭐ いつも前進。Always leveling. ⭐           │
 └─────────────────────────────────────────────────────────┘
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=rishit-Sinha10&color=A50044&style=flat&label=Profile+Views)
-
 </div>
