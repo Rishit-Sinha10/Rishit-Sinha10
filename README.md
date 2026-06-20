@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- Anime banner GIF -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="180" alt="Anime coding banner"/>
-
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -20,13 +18,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A50044&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%9A%A1;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Barca+Fan+%2B+Anime+Arc+%F0%9F%94%B5%F0%9F%94%B4;Mes+que+un+Dev+%E2%80%94+%E3%81%84%E3%81%A4%E3%82%82%E5%89%8D%E9%80%B2" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="160" align="right" alt="Anime coding gif"/>
-
 </div>
-
 ---
-
 <div align="center">
 
 ## ⚔️ キャラクタープロフィール — PLAYER CARD ⚔️
@@ -166,7 +159,6 @@ Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&icon_color=004D98&text_color=EDBB00"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-Sinha10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&text_color=EDBB00"/>
 </div>
 
 <div align="center">
@@ -232,8 +224,6 @@ Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="320" alt="Anime victory gif"/>
-
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
@@ -247,7 +237,5 @@ Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 │          ⭐ いつも建設中。いつも進化中。Always leveling. ⭐      │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rishit-Sinha10&color=A50044&style=flat&label=PROFILE+VIEWS)
 
 </div>
