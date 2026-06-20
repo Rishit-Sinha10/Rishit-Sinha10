@@ -123,24 +123,6 @@ Features: AI chatbot for personalised financial advice
 
 ---
 
-<div align="center">
-
-## 🏟️ Match History — Experience
-
-</div>
-
-```
-▶  SEASON II · NextLearn Technologies                  [ Apr 2026 – May 2026 ]
-   Role     : Full Stack Developer Intern
-   Highlight: Crushed page load from 4.2s → 1.1s  ( -65% ⚡ )
-              Shipped 8 production features across design + backend teams
-
-▶  SEASON I  · TheTastyMillets                        [ May 2025 – Jul 2025 ]
-   Role     : Frontend Developer Intern
-   Highlight: Optimised Core Web Vitals · +10% Lighthouse score
-              Shipped responsive UI across all device breakpoints
-```
-
 **Certifications & Achievements**
 
 ```
