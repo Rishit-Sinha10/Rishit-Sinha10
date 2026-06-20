@@ -84,7 +84,9 @@ Open to internships & junior dev roles.
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&icon_color=004D98&text_color=EDBB00" alt="Rishit's GitHub stats"/>
+  <img height="170em"
+     src="https://github-readme-stats.vercel.app/api?username=rishit-Sinha10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A50044&icon_color=004D98&text_color=EDBB00"
+     alt="Rishit's GitHub stats"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rishit-Sinha10&theme=tokyonight&hide_border=true&background=0D1117&ring=A50044&fire=EDBB00&currStreakLabel=004D98&sideLabels=EDBB00" alt="GitHub streak"/>
   <br/><br/>
