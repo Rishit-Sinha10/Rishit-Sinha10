@@ -1,5 +1,3 @@
-<img src="https://gitfut.com/Rishit-Sinha10.png" width="240" alt="GitFut card">
-
 # Rishit Sinha
 
 Full-stack developer focused on building maintainable, performant web applications, real-time systems, and developer tools. Currently deepening my backend and systems engineering knowledge while working toward production-grade software.
