@@ -1,6 +1,6 @@
 # Rishit Sinha
 
-Full-stack developer building production-focused web applications, backend APIs, and developer tools with TypeScript, React, Next.js, and Node.js.
+Software Engineer building production-focused web applications, backend APIs, and developer tools with TypeScript, React, Next.js, and Node.js.
 
 Currently working on Shopify storefronts while building deeper expertise in backend engineering, system design, and cloud infrastructure.
 
