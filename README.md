@@ -32,22 +32,6 @@ Cloud — AWS
 
 ---
 
-What I Care About
-
-- Maintainable and well-structured code
-- Practical backend architecture
-- Performance measured with real data
-- Clear APIs and documentation
-- Testing and automation
-- Building software that is actually deployed and used
-
----
-
-Exploring
-
-System Design · Distributed Systems · Backend Architecture · Cloud Infrastructure · Performance Engineering · Open Source
-
----
 
 ---
 
