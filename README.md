@@ -6,8 +6,8 @@ Currently working on Shopify storefronts while building deeper expertise in back
 
 ## Currently
 
-- Building **OpenLink**, a unified API layer for AI providers
-- Strengthening backend engineering, system design, and distributed systems fundamentals
+Building **OpenLink**, a unified API layer for AI providers
+Strengthening backend engineering, system design, and distributed systems fundamentals
 
 ## Stack
 
