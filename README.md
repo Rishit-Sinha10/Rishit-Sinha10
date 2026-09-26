@@ -1,43 +1,56 @@
-# Rishit Sinha
+Rishit Sinha
 
-Full-stack developer focused on building maintainable, performant web applications, real-time systems, and developer tools. Currently deepening my backend and systems engineering knowledge while working toward production-grade software.
+Full-stack developer building production-focused web applications, backend APIs, and developer tools with TypeScript, React, Next.js, and Node.js.
+
+Currently working on Shopify storefronts while building deeper expertise in backend engineering, system design, and cloud infrastructure.
 
 ---
-### Currently
+
+Currently
+
 - Building Shopify storefronts and custom theme components
-- Developing with React and Next.js
-- Strengthening backend skills with Node.js and Express
-- Learning System Design, Docker, Redis, AWS, and CI/CD
-- Improving code quality through testing, documentation, and automation
----
-### Stack
-**Languages** — Java · JavaScript · TypeScript · SQL
-
-**Frontend** — React · Next.js · HTML · CSS · Tailwind CSS · Shopify Liquid
-
-**Backend** — Node.js · Express · Flask · REST APIs
-
-**Databases** — MongoDB · MySQL · Firebase
-
-**DevOps** — Git · GitHub · Docker *(learning)* · GitHub Actions *(learning)*
-
-**Cloud** — AWS *(learning)*
-
-**Tools** — VS Code · Postman · npm
+- Developing full-stack applications with React, Next.js, Node.js, and TypeScript
+- Building OpenLink, a unified API layer for AI providers
+- Strengthening backend engineering, system design, and distributed systems fundamentals
+- Improving software quality through testing, documentation, and automation
 
 ---
-### How I Work
 
-- Write clear, maintainable code before optimizing prematurely
-- Design for scalability and simplicity
-- Measure performance rather than assume it
-- Treat documentation as part of the product
-- Iterate through feedback and continuous learning
+Stack
+
+Languages — Java · JavaScript · TypeScript · SQL · Python
+
+Frontend — React · Next.js · HTML · CSS · Tailwind CSS · Shopify Liquid
+
+Backend — Node.js · Express · Flask · REST APIs
+
+Databases — MongoDB · MySQL · Firebase
+
+Infrastructure & Tools — Git · GitHub · Docker · GitHub Actions · Postman · VS Code
+
+Cloud — AWS
+
 ---
-### Exploring
 
-Distributed Systems · Backend Architecture · System Design · Cloud Infrastructure · Performance Optimization · Open Source
+What I Care About
+
+- Maintainable and well-structured code
+- Practical backend architecture
+- Performance measured with real data
+- Clear APIs and documentation
+- Testing and automation
+- Building software that is actually deployed and used
 
 ---
-### Connect
-[Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [GitHub](https://github.com/Rishit-Sinha10) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com)
+
+Exploring
+
+System Design · Distributed Systems · Backend Architecture · Cloud Infrastructure · Performance Engineering · Open Source
+
+---
+
+---
+
+Connect
+
+"Portfolio" (https://www.rishitsinha.online) · "LinkedIn" (https://linkedin.com/in/rishit-sinha-6953ab363) · "GitHub" (https://github.com/Rishit-Sinha10) · "LeetCode" (https://leetcode.com/u/rizz4566) · "Email" (mailto:sinharishit04@gmail.com)
