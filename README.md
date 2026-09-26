@@ -6,11 +6,8 @@ Currently working on Shopify storefronts while building deeper expertise in back
 
 ## Currently
 
-- Building Shopify storefronts and custom theme components
-- Developing full-stack applications with React, Next.js, Node.js, and TypeScript
 - Building **OpenLink**, a unified API layer for AI providers
 - Strengthening backend engineering, system design, and distributed systems fundamentals
-- Improving software quality through testing, documentation, and automation
 
 ## Stack
 
