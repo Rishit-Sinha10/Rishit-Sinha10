@@ -1,3 +1,4 @@
+
 # Rishit Sinha
 
 Final-year Computer Science student and full-stack developer focused on building maintainable web applications, backend systems, AI-powered products, and developer tools. Currently strengthening my backend and systems engineering skills while working toward production-grade software.
@@ -19,7 +20,6 @@ Final-year Computer Science student and full-stack developer focused on building
 ### Stack
 
 **Languages** — Java · JavaScript · TypeScript · SQL
-
 ## Currently
 
 **Backend** — Node.js · Express · Flask · REST APIs · OpenAPI
