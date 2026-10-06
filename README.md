@@ -20,7 +20,7 @@ Final-year Computer Science student and full-stack developer focused on building
 
 **Languages** — Java · JavaScript · TypeScript · SQL
 
-**Frontend** — React · Next.js · HTML · CSS · Tailwind CSS · Shopify Liquid
+## Currently
 
 **Backend** — Node.js · Express · Flask · REST APIs · OpenAPI
 
