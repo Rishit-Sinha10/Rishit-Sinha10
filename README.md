@@ -1,7 +1,7 @@
 
 # Rishit Sinha
 
-Final-year Computer Science student and full-stack developer focused on building maintainable web applications, backend systems, AI-powered products, and developer tools. Currently strengthening my backend and systems engineering skills while working toward production-grade software.
+Final-year Computer Science student and A Frontend-Focused Product Engineer  focused on building maintainable web applications, backend systems, AI-powered products, and developer tools. Currently strengthening my backend and systems engineering skills while working toward production-grade software.
 
 ---
 
@@ -20,7 +20,6 @@ Final-year Computer Science student and full-stack developer focused on building
 ### Stack
 
 **Languages** — Java · JavaScript · TypeScript · SQL
-## Currently
 
 **Backend** — Node.js · Express · Flask · REST APIs · OpenAPI
 
@@ -48,17 +47,6 @@ Final-year Computer Science student and full-stack developer focused on building
 
 ---
 
-### How I Work
-
-* Write clear, maintainable code before optimizing prematurely
-* Prefer simple architectures that can evolve as requirements grow
-* Measure performance rather than assume it
-* Treat APIs, testing, and documentation as part of the product
-* Learn by building and validating ideas against real-world constraints
-* Iterate through feedback and continuous improvement
-
----
-
 ### Exploring
 
 Backend Engineering · System Design · Distributed Systems · AI Infrastructure · Cloud Infrastructure · Performance Optimization · Open Source
@@ -68,3 +56,6 @@ Backend Engineering · System Design · Distributed Systems · AI Infrastructure
 ### Connect
 
 [Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [GitHub](https://github.com/Rishit-Sinha10) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com)
+
+
+![GitHub Snake](https://raw.githubusercontent.com/Rishit-Sinha10/Rishit-Sinha10/output/snake.svg)
