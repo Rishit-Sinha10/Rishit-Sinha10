@@ -57,5 +57,5 @@ Backend Engineering · System Design · Distributed Systems · AI Infrastructure
 
 [Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [GitHub](https://github.com/Rishit-Sinha10) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com)
 
-
+---
 ![GitHub Snake](https://raw.githubusercontent.com/Rishit-Sinha10/Rishit-Sinha10/output/snake.svg)
