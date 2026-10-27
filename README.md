@@ -13,4 +13,4 @@ Developer Intern at The Tasty Millets; final-year B.Tech CS student (2027), base
 JavaScript · TypeScript · React · Next.js · Node.js · Express · MongoDB · MySQL · Shopify Liquid
 
 ## Connect
-[Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://www.linkedin.com/in/rishit-sinha-6953ab363) · [LeetCode](https://leetcode.com/u/rizz4566) (430+ solved) · sinharishit04@gmail.com
+[Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://www.linkedin.com/in/rishit-sinha-6953ab363) · [LeetCode](https://leetcode.com/u/rizz4566) · sinharishit04@gmail.com
