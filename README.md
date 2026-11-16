@@ -11,10 +11,11 @@ Personal GitHub profile repository containing workflow automation definitions an
 │       ├── gitascii.yml
 │       └── main.yml
 ├── README.md
-├── gitascii.json
-└── light_mode.svg
+└── assets/
+    ├── dark_mode.svg
+    └── light_mode.svg
 ```
 ## Overview
 
 - **GitHub Workflows**: Automated GitHub Actions defined in `.github/workflows/gitascii.yml` and `.github/workflows/main.yml`.
-- **Configuration**: JSON configuration managed in `gitascii.json`.
+- **Assets**: SVG assets stored in `assets/` (`dark_mode.svg` and `light_mode.svg`).
