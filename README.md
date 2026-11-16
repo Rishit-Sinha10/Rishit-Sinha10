@@ -1,4 +1,4 @@
-- **Backend Engineer / Final-year CS student.** Building, shipping, and learning in public. [Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com) · [ProductHunt](https://www.producthunt.com/@rishit_sinha3]
+- **Backend Engineer / Final-year CS student.** Building, shipping, and learning in public. [Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com) · [ProductHunt](https://www.producthunt.com/@rishit_sinha3)
 
 ### Engineering & Projects
 
