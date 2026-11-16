@@ -2,13 +2,11 @@
 
 ### Engineering & Projects
 
-- Building **ZexUI**, a frontend-focused UI project
 - Building **[OpenLink](https://github.com/Rishit-Sinha10)**, a unified API layer for multiple AI providers, with provider adapters, normalized responses, structured errors, and OpenAPI docs
-- Created **[Financcino](https://github.com/Rishit-Sinha10/Financcino)**, an AI-powered personal finance app with receipt OCR, budget tracking, spending analytics, and a financial-advice chatbot
-- Created **[Flux](https://github.com/Rishit-Sinha10/Flux)**, a live streaming platform with RTMP/HLS ingestion via FFmpeg, real-time chat with Socket.IO, and a Gemini-powered chatbot
-- Created **ZecoAI** (AI developer platform) and **ClarityCXR** (healthcare SaaS on Next.js and Supabase)
+- Building **[Financcino](https://github.com/Rishit-Sinha10/Financcino)**, an AI-powered personal finance app with receipt OCR, budget tracking, spending analytics, and a financial-advice chatbot
+- Building **[Tunnel](https://github.com/Rishit-Sinha10/Tunnel)**, a live streaming platform with RTMP/HLS ingestion via FFmpeg, real-time chat with Socket.IO, and a Gemini-powered chatbot
 - Building Shopify storefronts, custom theme components, and production web experiences
-- **434+** [LeetCode](https://leetcode.com/u/rizz4566) problems solved
+- **[Sentry Open Source Program](https://sentry.io/welcome/)**, Accepted for Open Source Support . [LinkedIn](https://www.linkedin.com/posts/rishit-sinha-6953ab363_excited-to-share-that-klyro-has-been-selected-share-7506795350159118336-fHg-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpLDBEBeYzR1HYugXda5JHeLrfZSF-psb)
 
 ### Currently Learning
 
