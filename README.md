@@ -1,3 +1,4 @@
+
 # Rishit-Sinha10
 
 Personal GitHub profile repository containing workflow automation definitions and repository configuration files.
@@ -10,9 +11,9 @@ Personal GitHub profile repository containing workflow automation definitions an
 │       ├── gitascii.yml
 │       └── main.yml
 ├── README.md
-└── gitascii.json
+├── gitascii.json
+└── light_mode.svg
 ```
-
 ## Overview
 
 - **GitHub Workflows**: Automated GitHub Actions defined in `.github/workflows/gitascii.yml` and `.github/workflows/main.yml`.
